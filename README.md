@@ -1,1 +1,1 @@
-# how-to-config-git-
+# how-to-config-git
